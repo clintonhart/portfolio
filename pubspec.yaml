@@ -28,7 +28,7 @@ flutter:
     - family: FreckleFace
       fonts:
         - asset: fonts/FreckleFace-Regular.ttf
-        
+
     - family: OriginalSurfer
       fonts:
         - asset: fonts/OriginalSurfer-Regular.ttf
